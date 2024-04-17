@@ -24,6 +24,31 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	
+	<key>API_KEY</key>
+	<string>AIzaSyD7CwYGoZQv5bYu5ucYX-gDahVaIWg6tpw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>108548865461</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.onlinedekho.odvendor</string>
+	<key>PROJECT_ID</key>
+	<string>odvendorflutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>odvendorflutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:108548865461:ios:7c73739d01d239b162edfc</string>
 
 	<key>NSCameraUsageDescription</key>
 	<string>Can I use the camera please? Only for demo purpose of the app</string>
